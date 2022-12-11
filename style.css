@@ -1,0 +1,38 @@
+*{
+   margin: o; 
+   padding: 0;
+   font-family: sans-serif;
+   box-sizing: border-box;
+
+}
+
+body{
+    background-color: #ffffff;
+    margin-left: 50px;
+}
+
+p {
+    font-size: 25px;
+    color: rgb(28, 58, 169);
+}
+
+input {
+    width: 666px;
+   height: 85px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+.loginbtn {
+    width: 20%;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(28, 58, 169);
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
